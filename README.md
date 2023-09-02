@@ -71,7 +71,8 @@ cv2.waitKey(0)
 ![DIP_exp_output](https://github.com/Thirukaalathessvarar-S/READ-AND-WRITE-IMAGE/assets/121166390/fa912c5c-47fd-4bae-bbe7-45263780f3ea)
 
 ### ii)Write the image
-![dip_output2](https://github.com/Thirukaalathessvarar-S/READ-AND-WRITE-IMAGE/assets/121166390/07e92404-5323-457f-8b29-8a81de847bc4)
+![dip_real_output2](https://github.com/Thirukaalathessvarar-S/READ-AND-WRITE-IMAGE/assets/121166390/0716a9ae-39fb-4c73-ba7c-443875828d01)
+
 
 
 ### iii)Shape of the Image
@@ -79,7 +80,8 @@ cv2.waitKey(0)
 
 
 ### iv)Access rows and columns
-![exp4 output](https://github.com/Thirukaalathessvarar-S/READ-AND-WRITE-IMAGE/assets/121166390/5bc64ba0-1009-4395-919c-22773986b50e)
+![dip_real_ouptut](https://github.com/Thirukaalathessvarar-S/READ-AND-WRITE-IMAGE/assets/121166390/588b85a4-cabe-4cf5-9cf7-e93e58f593c2)
+
 
 ### v)Cut and paste portion of image
 ![dip_realoutput5](https://github.com/Thirukaalathessvarar-S/READ-AND-WRITE-IMAGE/assets/121166390/b797b077-f570-4f55-92fd-a4b281aac099)
