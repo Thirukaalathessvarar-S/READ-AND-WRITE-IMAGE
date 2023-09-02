@@ -84,7 +84,7 @@ cv2.waitKey(0)
 
 
 ### v)Cut and paste portion of image
-![dip_realoutput5](https://github.com/Thirukaalathessvarar-S/READ-AND-WRITE-IMAGE/assets/121166390/b797b077-f570-4f55-92fd-a4b281aac099)
+![dip_out5_real](https://github.com/Thirukaalathessvarar-S/READ-AND-WRITE-IMAGE/assets/121166390/ba17dcaf-9334-4836-b0ba-1b7b0ecaff2c)
 
 
 ## Result:
