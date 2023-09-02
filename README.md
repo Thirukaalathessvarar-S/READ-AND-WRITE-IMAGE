@@ -58,7 +58,7 @@ cv2.waitKey(0)
 v) #To cut and paste portion of image
 ```
 import cv2
-color_image=cv2.imread('DIPexp1.jpg',-1)
+color_image=cv2.imread('DIPexp1.jpg',1)
 tag=color_image[300:400,300:400]
 color_image[50:150,50:150]=tag
 cv2.imshow('212222230161',color_image)
